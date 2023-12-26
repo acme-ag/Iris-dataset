@@ -20,7 +20,7 @@ Starting with raw data and reading it into python we'll be then doing some analy
 
 The project consists of four parts, they are mostly independent
 
-Part1: Data Loading and Cleaning up
-Part 2: Stastical Exploring
-Part 3: Statistical Analysis
-Part 4: Machine Learning
+- Part1: Data Loading and Cleaning up
+- Part 2: Stastical Exploring
+- Part 3: Statistical Analysis
+- Part 4: Machine Learning
